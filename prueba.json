@@ -1,0 +1,52 @@
+[
+     {
+          "id": 4,
+          "origen_x": 7,
+          "origen_y": 7,
+          "destino_x": 89,
+          "destino_y": 101,
+          "red": 5,
+          "green": 8,
+          "blue": 90
+     },
+     {
+          "id": 2,
+          "origen_x": 87,
+          "origen_y": 67,
+          "destino_x": 123,
+          "destino_y": 90,
+          "red": 34,
+          "green": 78,
+          "blue": 45
+     },
+     {
+          "id": 1,
+          "origen_x": 5,
+          "origen_y": 5,
+          "destino_x": 25,
+          "destino_y": 67,
+          "red": 1,
+          "green": 2,
+          "blue": 6
+     },
+     {
+          "id": 3,
+          "origen_x": 2,
+          "origen_y": 0,
+          "destino_x": 34,
+          "destino_y": 8,
+          "red": 90,
+          "green": 87,
+          "blue": 23
+     },
+     {
+          "id": 5,
+          "origen_x": 67,
+          "origen_y": 90,
+          "destino_x": 156,
+          "destino_y": 99,
+          "red": 87,
+          "green": 55,
+          "blue": 22
+     }
+]
